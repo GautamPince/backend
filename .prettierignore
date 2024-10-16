@@ -1,7 +1,10 @@
+# File with heading
+
+This is a file with a top-level heading
+
 /.vscode
 /node_modules
 ./dist
-
 
 *.env
 .env
